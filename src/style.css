@@ -59,6 +59,7 @@ header nav ul li {
   float: right;
   font-size: 1.6rem;
 }
+
 /* Header style end */
 
 /* Hero style start */
@@ -155,6 +156,7 @@ header nav ul li {
 .speciality-img {
   box-shadow: 5px 5px 15px rgba(200, 200, 200, 0.8);
 }
+
 /* Specialities style end */
 
 /* Menu style start */
@@ -205,6 +207,7 @@ header nav ul li {
 .menu-item p {
   color: #333333;
 }
+
 /* Menu style end */
 
 /* Testimony style start */
@@ -233,6 +236,7 @@ header nav ul li {
 .testimony-qoute {
   font-size: 6rem;
 }
+
 /* Testimony style end */
 
 /* Expert style class */
@@ -332,6 +336,7 @@ input[type="submit"] {
 input[type="submit"]:hover {
   background-color: #e76f51;
 }
+
 /* Reservation style end */
 
 /* Footer starts */
@@ -341,6 +346,7 @@ footer {
   padding: 1rem 2rem;
   color: white;
 }
+
 .footer-info-p {
   font-size: 1.2rem;
   margin-bottom: 1rem;
@@ -413,6 +419,7 @@ footer {
     height: 3rem;
   }
 }
+
 @media screen and (min-width: 725px) {
   body {
     max-width: 960px;
