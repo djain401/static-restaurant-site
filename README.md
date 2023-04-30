@@ -26,5 +26,4 @@ website for a restaurant.
 Click below link to see a working version of
 the static website.
 
-[Click Here](https://creative-cranachan-c3740c.netlify.app/
-)
+[Click Here](https://static-restaurant-site.netlify.app)
